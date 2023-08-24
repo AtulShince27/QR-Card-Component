@@ -1,0 +1,27 @@
+body{
+    background-color: hsl(212, 45%, 89%);
+}
+.card{
+    margin: 15% auto;
+    padding: 15px;
+    border-radius: 5%;
+    text-align: center;
+    font-family:'Poppins', sans-serif;;
+}
+.card .card-img-top{
+    border-radius: 5%;
+}
+.card .card-title{
+    font-weight: 600;
+    font-size: 17px;
+    color: hsl(218, 44%, 22%);
+}
+.card .card-text{
+    font-weight: 400;
+    font-size: 15px;
+    color: hsl(220, 15%, 55%);
+}
+.attribution{
+    text-align: center;
+    margin-top: 1rem;
+}
